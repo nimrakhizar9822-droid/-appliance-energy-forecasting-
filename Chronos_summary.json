@@ -1,0 +1,12 @@
+{
+  "model": "amazon/chronos-bolt-base",
+  "metrics": {
+    "RMSE": 72.74242204707568,
+    "MAE": 42.52524179882473,
+    "MAPE": 23.67909173321864,
+    "sMAPE": 23.982766056932444,
+    "MASE": 0.8051323264040049
+  },
+  "zero_shot": true,
+  "context_length": 3266
+}
