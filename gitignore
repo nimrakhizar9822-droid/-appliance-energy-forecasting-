@@ -1,0 +1,13 @@
+# Raw data (large, download separately — see README)
+data/energydata_complete.csv
+data/*.csv
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db

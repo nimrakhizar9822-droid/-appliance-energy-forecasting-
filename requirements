@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+statsmodels
+scikit-learn
+xgboost
+torch
+jupyter
+ipykernel
+
+# Only needed for the Chronos-Bolt notebook (Part 7):
+# chronos-forecasting
